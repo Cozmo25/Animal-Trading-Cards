@@ -1,0 +1,37 @@
+#image {
+	width: 300px;
+	height: 200px;
+	transform: rotate(180deg);
+}
+
+#fact {
+	font-style: italic;
+	margin-top: 10px;
+}
+
+span {
+	font-weight: bold; 
+}
+
+body {
+	width: 320px;
+	border: solid 1px lightgrey;
+	box-shadow: 10px 5px 5px lightgrey;
+	font-family: Helvetica, Arial, Sans-serif;
+}
+
+#content {
+	margin: 10px;
+}
+
+#details {
+	margin-top: 10px;
+	border: solid 1px lightgrey;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+ul {
+	list-style-type: none;
+	-webkit-padding-start: 0px;
+}
